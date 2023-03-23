@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura&display=swap');
+
+.leftside-container {
+    width: 588px;
+    height: 1650px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+
+.n3wcr4ft-logo {
+    width: 410px;
+    height: 72px;
+    padding-top: 120px;
+    padding-right: 55px;
+}
+
+.Logoaltidiv {
+    width: 524px;
+    height: 123px;
+    background-color: #343434;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-right: 70px;
+}
+
+.Logoaltidiv-yazi {
+    width: 400px;
+    height: 61px;
+    left: 86px;
+    top: 314px;
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.leftsidekutu {
+    width: 524px;
+    height: 60px;
+    border-top: 2px solid black;
+    margin-right: 70px;
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #343434;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.leftsidekutu1 {
+    width: 400px;
+}
